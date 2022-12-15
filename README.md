@@ -1,4 +1,4 @@
-# Baby_Programming-Language
+# Baby-Programming-Language
 
 This project creates a minimalistic programming language using Python. The language can perform arithmatic operations using the four basic operations (+, -, ÷, *) which can be grouped by parenthesis.
 
