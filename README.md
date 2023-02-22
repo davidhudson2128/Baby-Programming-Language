@@ -13,12 +13,12 @@ The project is broken into four parts: the decipherer, lexer, parser, and evalua
 
 
 Syntax of Baby Language:
+  - "mama" represents a "("
+  - "dada" represents a ")"
   - "ahh" represents a "+"
   - "gah" represents a "-"
   - "milk" represents a "*"
   - "heh" represents a "÷"
-  - "mama" represents a "("
-  - "dada" represents a ")"
   - "baaa" represents a digit where the number of 'a's represent the digit. For example "baa" is 2, and "baaaaaaa" is 7
   - "wah" stops the program
   
